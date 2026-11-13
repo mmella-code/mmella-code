@@ -21,7 +21,8 @@ technologies I am learning
 .Git & Github
 
 what I am working on
-.building my personal portfolio website
+
+building my personal portfolio website
 
 .improving Javascript skills
 
