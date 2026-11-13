@@ -1,13 +1,17 @@
 Hi, I am Latiphar Mmella 👋
+
  An aspiring frontend developer
 
 I am passionate about web development and building interactive, use-friendly websites.
+
 currently learning Javascript, HTML, CSS and React.
+
 💻working on personal projects to strengthen my frontend development skills
 
 🎯my goal is to grow into a full stack developer and build meaningful digital solutions
 
 technologies I am learning
+
 .HTML
 .CSS
 .Javascript
