@@ -13,13 +13,18 @@ currently learning Javascript, HTML, CSS and React.
 technologies I am learning
 
 .HTML
+
 .CSS
+
 .Javascript
+
 .Git & Github
 
 what I am working on
 .building my personal portfolio website
+
 .improving Javascript skills
+
 .creating practical web development projects
 
 lets connect
