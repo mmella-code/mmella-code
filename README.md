@@ -16,8 +16,7 @@ building my personal portfolio website
 
 .creating practical web development projects
 
-lets connect
-. GitHub: @mmella-code
+
 <!--
 **mmella-code/mmella-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
