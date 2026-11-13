@@ -8,18 +8,6 @@ currently learning Javascript, HTML, CSS and React.
 
 💻working on personal projects to strengthen my frontend development skills
 
-🎯my goal is to grow into a full stack developer and build meaningful digital solutions
-
-technologies I am learning
-
-.HTML
-
-.CSS
-
-.Javascript
-
-.Git & Github
-
 what I am working on
 
 building my personal portfolio website
